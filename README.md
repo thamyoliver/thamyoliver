@@ -1,6 +1,6 @@
 <!-- ⚡ CABEÇALHO AZUL ELÉTRICO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001a4d,70:0066ff,100:00d4ff&height=200&section=header&text=Thamy%20Oliveira&fontSize=40&fontColor=ffffff&animation=twinkling&stroke=00d4ff&strokeWidth=2&font=Press+Start+2P"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001a66,70:0044ff,100:00d4ff&height=280&section=header&text=THAMY%20OLIVEIRA&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20de%20Software%20%7C%20Python%20%7C%20Java%20%7C%20SQL&descSize=20&descAlignY=62&stroke=00d4ff&strokeWidth=2"/>
 </p>
 
 <!-- ⚡ TERMINAL DINÂMICO -->
@@ -71,5 +71,5 @@
 
 <!-- 🌌 RODAPÉ AZUL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0033cc,100:00d4ff&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0033cc,100:00d4ff&height=120&section=footer"/>
 </p>
