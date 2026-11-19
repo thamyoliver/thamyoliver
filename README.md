@@ -48,14 +48,14 @@ class Thamy:
 
 ---
 
-## Quests ativas
+## Estudando agora
 
-| Quest | Progresso |
+| Tecnologia | Progresso |
 | :--- | :--- |
-| **Dominar Python** | `[▓▓▓▓▓▓▓▓░░]` |
-| **Voltar com tudo no Java** | `[▓▓▓░░░░░░░]` |
-| **Subir de nível no SQL** | `[▓▓▓▓░░░░░░]` |
-| **Entrar no mundo da IA** | `[▓▓░░░░░░░░]` |
+| **Python** | `80%` |
+| **Java** | `30%` |
+| **SQL** | `40%` |
+| **IA** | `20%` |
 
 ---
 
