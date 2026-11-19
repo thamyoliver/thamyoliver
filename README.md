@@ -1,11 +1,26 @@
-<!-- ⚡ CABEÇALHO NEON CYBERPUNK --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=35&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Press+Start+2P"/> </p> <!-- ⚡ TERMINAL DINÂMICO (SUPORTE TECH) --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=%3E%3E+TERMINAL+DE+SUPORTE+AVAN%C3%87ADO...;%3E%3E+INICIANDO+DIAGN%C3%93STICO+DE+SISTEMA...;%3E%3E+CONECTANDO+AO+SERVIDOR+CENTRAL+TH...;%3E%3E+STATUS:+RESOLVENDO+CHAMADOS+CR%C3%8DTICOS..." /> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/> </div> <!-- GIF DO GOOGLE SHARE ATUALIZADO --> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5OyrtjRp1ly2yBS8fIcOh5JpWiE1gw7DzQ&s" height="170px" style="margin-left:20px; border-radius: 10px;"/>
+<!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=35&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Press+Start+2P"/>
+</p>
+
+<!-- ⚡ TERMINAL DINÂMICO (SUPORTE TECH) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=%3E%3E+TERMINAL+DE+SUPORTE+AVAN%C3%87ADO...;%3E%3E+INICIANDO+DIAGN%C3%93STICO+DE+SISTEMA...;%3E%3E+CONECTANDO+AO+SERVIDOR+CENTRAL+TH...;%3E%3E+STATUS:+RESOLVENDO+CHAMADOS+CR%C3%8DTICOS..." />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
+</div>
+
+<!-- GIF DO GOOGLE SHARE ATUALIZADO -->
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5OyrtjRp1ly2yBS8fIcOh5JpWiE1gw7DzQ&s" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
 #### INFORMAÇÕES_DO_SISTEMA
 
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
-* **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
-* **HABILIDADES:** Python, Java, SQL e Suporte Técnico
-* **STATUS:** Entre tickets de suporte, automação de scripts e troubleshooting de rede.
+* **FOCO:** Programação e Inteligência Artificial
+* **HABILIDADES:** Python, noções de SQL, noções básicas de redes e Java em retomada
+* **STATUS:** Retomando os estudos de Java, praticando Python e construindo meu caminho rumo à IA.
 
 <br>
 
