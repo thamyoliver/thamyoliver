@@ -5,12 +5,12 @@
 
 <!-- NOME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=3000&pause=2500&color=8fb4ff&center=true&vCenter=true&width=900&height=80&lines=THAMY+OLIVEIRA;%3C+dev+em+construção+%2F%3E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=3000&pause=2500&color=8fb4ff&center=true&vCenter=true&width=900&height=80&lines=THAMY+OLIVEIRA;%3C+dev+em+constru%C3%A7%C3%A3o+%2F%3E" />
 </p>
 
 <!-- TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6ea8ff&center=true&vCenter=true&width=700&height=40&lines=%24+python+main.py;%24+git+commit+-m+%22mais+um+nível+desbloqueado%22;%24+sudo+aprender+Java+--força" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6ea8ff&center=true&vCenter=true&width=700&height=40&lines=%24+python+main.py;%24+git+commit+-m+%22mais+um+n%C3%ADvel+desbloqueado%22;%24+sudo+aprender+Java+--for%C3%A7a" />
 </p>
 
 <div align="center">
@@ -82,7 +82,7 @@ class Thamy:
 
 <!-- FRASE FINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=6ea8ff&center=true&vCenter=true&width=700&height=40&lines=%2F%2F+fim+do+README.+Obrigada+por+passar+por+aqui!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=6ea8ff&center=true&vCenter=true&width=700&height=40&lines=%2F%2F+fim+do+README.+Obrigada+por+passar+por+aqui%21" />
 </p>
 
 <!-- RODAPÉ -->
