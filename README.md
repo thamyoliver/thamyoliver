@@ -1,53 +1,69 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05071a,45:141a5c,100:3a2fa0&height=200&section=header&text=THAMY%20OLIVEIRA&fontSize=48&fontColor=cfe3ff&fontAlignY=42&animation=twinkling&desc=Desenvolvedora%20de%20Software&descSize=18&descAlignY=65&descColor=8fb4ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05071a,45:141a5c,100:3a2fa0&height=180&section=header&animation=twinkling"/>
+</p>
+
+<!-- NOME -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=3000&pause=2500&color=8fb4ff&center=true&vCenter=true&width=900&height=80&lines=THAMY+OLIVEIRA;%3C+dev+em+construção+%2F%3E" />
 </p>
 
 <!-- TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6ea8ff&center=true&vCenter=true&width=600&height=40&lines=%24+python+main.py;%24+estudando+Java+e+SQL...;%24+construindo+projetos..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6ea8ff&center=true&vCenter=true&width=700&height=40&lines=%24+python+main.py;%24+git+commit+-m+%22mais+um+nível+desbloqueado%22;%24+sudo+aprender+Java+--força" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141a5c,100:3a2fa0&height=3"/>
+</div>
 
-## Sobre mim
+## whoami
 
-* **Curso:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
-* **Foco:** Desenvolvimento de Software e Inteligência Artificial
-* **Habilidades:** Python, SQL e Java
-* **Status:** Em constante evolução, construindo projetos e aprendendo todos os dias.
+```python
+class Thamy:
+    nome   = "Thamy Oliveira"
+    curso  = "ADS / Engenharia de Software"
+    foco   = ["Desenvolvimento de Software", "Inteligência Artificial"]
+    stack  = ["Python", "SQL", "Java"]
+    gamer  = True
+    cafe   = "sempre"
+
+    def status(self):
+        return "evoluindo a cada commit"
+```
 
 <br>
 
 ## Projeto em destaque
 
-### TH Games Hub — Gerenciador de Torneios
-*Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
+### TH Games Hub: Gerenciador de Torneios
+*Porque campeonato de Valorant e LoL sem organização vira caos.*
 
-- **O que faz:** Centraliza o controle de times, jogadores e inscrições, gerando relatórios automáticos de torneios competitivos.
-- **Diferencial:** Interface de terminal organizada com tabelas e persistência de dados em arquivos estruturados.
-- **Tecnologias:** `Python 3.13` / `Biblioteca Tabulate` / `Manipulação de Arquivos .txt`
+- **O que faz:** Centraliza times, jogadores e inscrições, e gera relatórios automáticos dos torneios.
+- **Diferencial:** Interface de terminal com tabelas e dados salvos em arquivos estruturados.
+- **Tecnologias:** `Python 3.13` / `Tabulate` / `Arquivos .txt`
 - **Status:** `VERSÃO_FINAL_ESTÁVEL`
 
-> **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
+> Feito durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
 
 ---
 
-## Tecnologias
+## Quests ativas
+
+| Quest | Progresso |
+| :--- | :--- |
+| **Dominar Python** | `[▓▓▓▓▓▓▓▓░░]` |
+| **Voltar com tudo no Java** | `[▓▓▓░░░░░░░]` |
+| **Subir de nível no SQL** | `[▓▓▓▓░░░░░░]` |
+| **Entrar no mundo da IA** | `[▓▓░░░░░░░░]` |
+
+---
+
+## Inventário
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,css,html" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github,vscode" />
 </div>
-
-<br>
-
-## Em estudo
-
-| Módulo | Status |
-| :--- | :--- |
-| **Python** | `Estável` |
-| **Java** | `Em evolução` |
-| **SQL** | `Em evolução` |
 
 ---
 
@@ -61,6 +77,13 @@
     <img src="https://img.shields.io/badge/E--mail-0b0f2e?style=for-the-badge&logo=gmail&logoColor=8f7cff">
   </a>
 </div>
+
+<br>
+
+<!-- FRASE FINAL -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=6ea8ff&center=true&vCenter=true&width=700&height=40&lines=%2F%2F+fim+do+README.+Obrigada+por+passar+por+aqui!" />
+</p>
 
 <!-- RODAPÉ -->
 <p align="center">
