@@ -1,18 +1,28 @@
-<!-- ⚡ CABEÇALHO AZUL ELÉTRICO -->
+<!-- 🌌 FUNDO ESTRELADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001a66,70:0044ff,100:00d4ff&height=280&section=header&text=THAMY%20OLIVEIRA&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedora%20de%20Software%20%7C%20Python%20%7C%20Java%20%7C%20SQL&descSize=20&descAlignY=62&stroke=00d4ff&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050520,60:0a1a6b,100:1e90ff&height=170&section=header&animation=twinkling"/>
 </p>
 
-<!-- ⚡ TERMINAL DINÂMICO -->
+<!-- 🪐 NOME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00bfff&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1+INICIANDO+SISTEMA...;%E2%9A%A1+EXECUTANDO+main.py...;%E2%9A%A1+CARREGANDO+PROJETOS...;%E2%9A%A1+APRENDENDO+E+EVOLUINDO..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=3000&pause=2000&color=7fd6ff&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%8C%8C+THAMY+OLIVEIRA+%F0%9F%8C%8C" />
+</p>
+
+<!-- ✨ SUBTÍTULO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&pause=1000&color=a8c8ff&center=true&vCenter=true&width=800&height=40&lines=Desenvolvedora+de+Software+%7C+Python+%7C+Java+%7C+SQL" />
+</p>
+
+<!-- 🚀 TERMINAL DINÂMICO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=4da6ff&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+DECOLANDO+PARA+O+C%C3%93DIGO...;%F0%9F%AA%90+EXPLORANDO+NOVAS+LINGUAGENS...;%E2%98%84%EF%B8%8F+CARREGANDO+PROJETOS...;%F0%9F%8C%8C+EVOLUINDO+A+CADA+DIA..." />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a4d,50:0066ff,100:00d4ff&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050520,50:1e90ff,100:7fd6ff&height=4"/>
 </div>
 
-## ⚡ INFORMAÇÕES_DO_SISTEMA
+## 🪐 INFORMAÇÕES_DO_SISTEMA
 
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
 * **FOCO:** Desenvolvimento de Software e Inteligência Artificial
@@ -21,7 +31,7 @@
 
 <br>
 
-## ⚡ PROJETO_EM_DESTAQUE
+## 🚀 PROJETO_EM_DESTAQUE
 
 ### TH Games Hub — Gerenciador de Torneios
 *Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
@@ -33,20 +43,20 @@
 
 > **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
 
-## ⚡ CONECTAR_TERMINAL
+## 🛰️ CONECTAR_TERMINAL
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfff">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4da6ff">
   </a>
   <a href="mailto:oliveirathamy50@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=0066ff">
+    <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=1e90ff">
   </a>
 </div>
 
 ---
 
-## ⚡ TECNOLOGIAS
+## ☄️ TECNOLOGIAS
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,java,css,html" />
@@ -54,22 +64,22 @@
 
 ---
 
-## ⚡ STACK_DE_ESTUDOS
+## 🌠 STACK_DE_ESTUDOS
 
 | MÓDULO | STATUS |
 | :--- | :--- |
-| **PYTHON** | `⚡ ESTÁVEL` |
-| **JAVA** | `⚡ EM_EVOLUÇÃO` |
-| **SQL** | `⚡ EM_EVOLUÇÃO` |
+| **PYTHON** | `🪐 ESTÁVEL` |
+| **JAVA** | `🚀 EM_EVOLUÇÃO` |
+| **SQL** | `🚀 EM_EVOLUÇÃO` |
 
 <br>
 
-<!-- ⚡ FAIXA DE RAIOS -->
+<!-- 🌌 FRASE FINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=500&color=00d4ff&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1%E2%9A%A1%E2%9A%A1+ENERGIA+100%25+%E2%9A%A1%E2%9A%A1%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=800&color=7fd6ff&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+O+UNIVERSO+%C3%89+O+LIMITE+%E2%9C%A8;%F0%9F%8C%8C+SEGUINDO+EM+FRENTE...+%F0%9F%9A%80" />
 </p>
 
-<!-- 🌌 RODAPÉ AZUL -->
+<!-- 🌌 RODAPÉ ESTRELADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0033cc,100:00d4ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a6b,100:1e90ff&height=120&section=footer&animation=twinkling"/>
 </p>
