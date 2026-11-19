@@ -12,9 +12,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a4d,50:0066ff,100:00d4ff&height=4"/>
 </div>
 
-<!-- IMAGEM -->
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5OyrtjRp1ly2yBS8fIcOh5JpWiE1gw7DzQ&s" height="260px" style="margin-left:20px; border-radius: 10px;"/>
-
 ## ⚡ INFORMAÇÕES_DO_SISTEMA
 
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
